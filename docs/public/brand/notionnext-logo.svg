@@ -1,8 +1,1 @@
-<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NotionNext logo">
-  <rect width="256" height="256" fill="#111c35"/>
-  <rect x="57" y="40" width="38" height="147" fill="#fff"/>
-  <polygon points="86,40 124,40 217,147 217,187 179,187 86,80" fill="#fff"/>
-  <rect x="179" y="40" width="38" height="147" fill="#fff"/>
-  <polygon points="95,80 179,177 179,137 95,40" fill="#111c35"/>
-  <rect x="207" y="196" width="24" height="24" fill="#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" aria-label="NotionNext logo" role="img" viewBox="0 0 256 256"><rect width="256" height="256" fill="#111c35"/><rect width="38" height="147" x="57" y="40" fill="#fff"/><polygon fill="#fff" points="86 40 124 40 217 147 217 187 179 187 86 80"/><rect width="38" height="147" x="179" y="40" fill="#fff"/><polygon fill="#111c35" points="95 80 179 177 179 137 95 40"/><rect width="24" height="24" x="207" y="196" fill="#fff"/></svg>
